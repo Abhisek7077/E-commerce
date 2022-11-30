@@ -33,13 +33,14 @@ li img {
 	justify-content: space-between;
 	padding-left: 1rem;
 	list-style: none;
-=======
+}
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    font-family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
+    font-family: "https://fonts.google.com/specimen/Kumbh+Sans";
 }
+
 body {
 line-height: 1.5;
 }
