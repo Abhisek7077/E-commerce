@@ -1,0 +1,35 @@
+.navbar {
+	display: flex;
+	align-items: center;
+	position: fixed;
+	padding-left: 20px;
+	top: 0;
+	left: 0;
+}
+
+ul {
+	display: flex;
+	justify-content: space-between;
+	list-style: none;
+	align-items: center;
+}
+
+ul li {
+	padding-left: 1rem;
+	align-items: center;
+	color: hsl(220, 14%, 75%);
+}
+
+li img {
+	height: 40px;
+	width: 40px;
+}
+
+#nav-menu {
+	display: flex;
+	width: 10%;
+	margin-right: 10px;
+	justify-content: space-between;
+	padding-left: 1rem;
+	list-style: none;
+}
